@@ -1,8 +1,8 @@
-#CommitNRun 🚀
+# CommitNRun 🚀
 
 Project: Dockerized URL Shortener with Monitoring
 
-##👥 Team Members
+## 👥 Team Members
 
 Ahmed Tamer Ahmed Elkady
 
@@ -14,13 +14,13 @@ Moaz Mohamed Adel ElGendy
 
 Mohamed Ahmed Hassan Doma
 
-##📌 Project Idea
+## 📌 Project Idea
 
 To build, containerize, and monitor a functional URL shortener webservice. The 
 entire stack, including the application and its monitoring tools (Prometheus, Grafana), will run 
 locally using Docker.
 
-##📌 Project Objective
+## 📌 Project Objective
 
 This project involves creating a webservice that shortens URLs, stores the 
 mapping, and handles redirects. You will then instrument this service to expose custom 
